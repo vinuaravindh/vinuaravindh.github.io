@@ -1,0 +1,30 @@
+html {
+  /* This is an useless comment with no inofrmation*/
+  font-size: 14px;
+  font-family: 'Roboto Slab', serif;
+  background-color: black;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: blanchedalmond;
+  padding: 0px 40px 20px 40px;
+  border: 5px solid aquamarine;
+
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 2px 2px 3px black;
+
+}
+
+p {
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 1px;
+}
